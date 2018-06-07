@@ -11,7 +11,16 @@ You can find the Font files attached as zip archives in the /fonts directory.
 
 ## Logos and other images
 
-You can find the image files in the /images directory. 
+You can find the image files in the /images directory.
+
+## Colors
+
+* Primary Green: 			#00d188
+* Grey: 					#232c38
+* Black Text: 				#262626
+* Background Navy: 			#141c28
+* Grey Background: 			#eeeeee
+* Grey on Navy Background: 	#232c38
 
 ### Style-Guide PDF
 

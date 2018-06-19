@@ -1,4 +1,4 @@
-#NativeBase-Phore
+# NativeBase-Phore
 
 This is NativeBase with Phore fonts added and theme variables customized. 
 
